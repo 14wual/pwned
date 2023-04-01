@@ -1,6 +1,8 @@
 # pwned
 Pentesting Laboratories Worked
 
+ Preparing eJPT
+
 1. [HackTheBox - HTB](https://github.com/14wual/pwned/edit/main/README.md#hackthebox)
 
 **Total**: 8
