@@ -3,8 +3,11 @@
 # LupinOne
 
 Plataform: [Vulnhub](https://www.vulnhub.com/)
+
 Serie: [Series Empire](https://www.vulnhub.com/series/empire,507/)
+
 Máquina: [LupinOne](https://www.vulnhub.com/entry/empire-lupinone,750/)
+
 Nivel: Medio
 
 See more: [link](<paste here the link>)
