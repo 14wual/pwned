@@ -15,13 +15,15 @@ See more: [link](<paste here the link>)
 ## Walkthrough - Video
 
 Ver Vídeo: [LupinOne | Vulnhub - Series Empire | Walkthrough |WualPk](<paste here the link>)
+
 Canal de YouTube: [YouTube | @wual](htttp://www.youtube.com/@wual)
+
 Lista de Reproducción: [Machines Pwned](<paste here the link>)
 
 ## Walkthrough
 
 
-´´´bash
+´´´
 # sudo nmap -sV <puerta de enlace>/24
 $ sudo nmap -sV 192.168.1.1/24
 ´´´
@@ -32,7 +34,7 @@ Mi **Output** Personal: ´192.168.1.110´ | Este es la IP Privada de mi máquina
 Cuando conseguimos la ip victima (`target`), vamos ha realizar un escaneo sobre la máquina. La realizaremos con las siguientes **flags**: ´-sC´ (para obtener la máxima info posible a partir de unos scripts de nmap por defecto) y ´-sV´ (para darme todos los servicios que corren en los puertos abiertos.)
 
 
-´´´bash
+´´´
 # sudo nmap -sV <ip-víctima>/24
 $ sudo nmap -sC -sV 192.168.1.110
 ´´´
@@ -80,7 +82,7 @@ find . -name common.txt
 Después de tener la dirección, realizamos el siguiente comando: (la flag -c es para adelantar la ejecución)
 
 
-´´´bash
+´´´
 # sudo ffuf -c -w <URL-DICCIONARIO> -u <IP-VÍCTIMA>/~FUUZ
 $ sudo ffuf -c -w <URL-DICCIONARIO> -u 192.168.1.110/~FUUZ
 ´´´
@@ -91,7 +93,7 @@ Al realizar este comando, obtenemos un nuevo directorio: ´/~secret/´ , en el e
 Vamos ha volver a realizar el ataque de fuerza bruta pero esta vez a directorios escondidos en ´/~secret/´:
 
 
-´´´bash
+´´´
 # sudo ffuf -c -ic -w <URL-DICCIONARIO> -u <IP-VÍCTIMA>/~FUUZ -fc 403 -e .txt, .html
 $ sudo ffuf -c -ic -w <URL-DICCIONARIO> -u 192.168.1.110/~FUUZ -fc 403 -e .txt, .html
 ´´´
