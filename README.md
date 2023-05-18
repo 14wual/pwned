@@ -29,12 +29,12 @@ Pentesting Laboratories Worked
 
 ### Level Medium
 
-| [LupinOne](https://github.com/14wual/pwned/blob/main/vulnhub/es/LupinOne.md) | Series Empire | icex64 & Empire Cybersecurity | 
+| [LupinOne](https://github.com/14wual/pwned/blob/main/vulnhub/es/LupinOne.md) | Series Empire | icex64 & Empire Cybersecurity | abr23 |
 | ------------- | ------------- | ------------- |
 | Next | |  | 
 
 ### Level Easy
 
-| [Breakout](https://www.vulnhub.com/entry/empire-breakout,751/) | Series Empire | icex64 & Empire Cybersecurity | 
+| [Breakout](https://www.vulnhub.com/entry/empire-breakout,751/) | Series Empire | icex64 & Empire Cybersecurity | abr23 |
 | ------------- | ------------- | ------------- |
 | Next | |  | 
