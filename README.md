@@ -16,13 +16,14 @@ Pentesting Laboratories Worked
 
 ### HTB - [Starting Point](https://app.hackthebox.com/starting-point)
 
-| Tier 0 | | | | 
-| ------------- | ------------- | ------------- | ------------- | 
-| Meouw  | Fawn | Dancing | Redemeer |
+|Tier 2|2|2|2|Tiew 1|1|1|1|Tier 0|0|0|0|0|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|ArcheType|Oopsie|Vaccine|Unified|Appointment|Sequel|Cocodrile|Responder|Three|Meouw|Fawn|Dancing|Redemeer|
+|✔|✔|✔|✗|✔|✔|✔|✔|✔|✔|✔|✔|✔|
+|may23|may23|may23|-|feb23|jun22|jun22|ab23|may23|may22|may22|may22|jun22|
 
-| Tier 1 | | | | 
-| ------------- | ------------- | ------------- | ------------- | 
-| Appointment | Sequel | Cocodrile | Responder |
+
+
 
 ## [Vulnhub](https://www.vulnhub.com/)
 
