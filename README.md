@@ -1,5 +1,5 @@
 # pwned
-Pentesting Laboratories Worked
+14Wual Pentesting Laboratories Worked Pwned
 
  Preparing eJPT
 
@@ -8,11 +8,15 @@ Pentesting Laboratories Worked
 
 **Total**: 9
 
-## [HackTheBox](https://app.hackthebox.com/profile/923054)
+# [HackTheBox](https://app.hackthebox.com/profile/923054)
 
-### HTB - Level Medium
+## Machines
 
-### HTB - Level Easy
+### HTB Machine - Level Easy
+
+3. [**Precius**](https://www.hackthebox.com/achievement/machine/923054/513) - may23
+2. [**Busqueda**](https://www.hackthebox.com/achievement/machine/923054/537) - may23
+1. [**MonitorsTwo**](https://www.hackthebox.com/achievement/machine/923054/539) - may23
 
 ### HTB - [Starting Point](https://app.hackthebox.com/starting-point)
 
@@ -22,10 +26,17 @@ Pentesting Laboratories Worked
 |✔|✔|✔|✗|✔|✔|✔|✔|✔|✔|✔|✔|✔|
 |may23|may23|may23|-|feb23|jun22|jun22|ab23|may23|may22|may22|may22|jun22|
 
+## Challenges
+
+### HTB Challeng - Level Easy
 
 
+2. [**CubeMadness1**](https://www.hackthebox.com/achievement/challenge/923054/302) - may23
+1. [**RaceCar**](https://www.hackthebox.com/achievement/challenge/923054/242) - may23
 
-## [Vulnhub](https://www.vulnhub.com/)
+# [Vulnhub](https://www.vulnhub.com/)
+
+## Machines
 
 ### Level Medium
 
