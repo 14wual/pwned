@@ -14,6 +14,9 @@
 
 ### HTB Machine - Level Easy
 
+6. [**Soccer**](https://www.hackthebox.com/achievement/machine/923054/519) - may23
+5. [**Stocker**](https://www.hackthebox.com/achievement/machine/923054/523) - may23
+4. [**Inject**](https://www.hackthebox.com/achievement/machine/923054/533) - may23
 3. [**Precius**](https://www.hackthebox.com/achievement/machine/923054/513) - may23
 2. [**Busqueda**](https://www.hackthebox.com/achievement/machine/923054/537) - may23
 1. [**MonitorsTwo**](https://www.hackthebox.com/achievement/machine/923054/539) - may23
