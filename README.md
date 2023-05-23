@@ -12,17 +12,20 @@
 
 ## Machines
 
-### HTB Machine - Level Easy
+### HTB Machine - Level Medium
 
 1. [**Bagel**](https://www.hackthebox.com/achievement/machine/923054/530) - may23
 2. [**OnlyForYou**](https://www.hackthebox.com/achievement/machine/923054/540) - may23
 3. [**Agile**](https://www.hackthebox.com/achievement/machine/923054/532) - may23
-4. [**Soccer**](https://www.hackthebox.com/achievement/machine/923054/519) - may23
-5. [**Stocker**](https://www.hackthebox.com/achievement/machine/923054/523) - may23
-6. [**Inject**](https://www.hackthebox.com/achievement/machine/923054/533) - may23
-7. [**Precius**](https://www.hackthebox.com/achievement/machine/923054/513) - may23
-8. [**Busqueda**](https://www.hackthebox.com/achievement/machine/923054/537) - may23
-9. [**MonitorsTwo**](https://www.hackthebox.com/achievement/machine/923054/539) - may23
+
+### HTB Machine - Level Easy
+
+1. [**Soccer**](https://www.hackthebox.com/achievement/machine/923054/519) - may23
+2. [**Stocker**](https://www.hackthebox.com/achievement/machine/923054/523) - may23
+3. [**Inject**](https://www.hackthebox.com/achievement/machine/923054/533) - may23
+4. [**Precius**](https://www.hackthebox.com/achievement/machine/923054/513) - may23
+5. [**Busqueda**](https://www.hackthebox.com/achievement/machine/923054/537) - may23
+6. [**MonitorsTwo**](https://www.hackthebox.com/achievement/machine/923054/539) - may23
 
 ### HTB - [Starting Point](https://app.hackthebox.com/starting-point)
 
