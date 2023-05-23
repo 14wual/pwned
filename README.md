@@ -14,12 +14,15 @@
 
 ### HTB Machine - Level Easy
 
-6. [**Soccer**](https://www.hackthebox.com/achievement/machine/923054/519) - may23
+1. [**Bagel**](https://www.hackthebox.com/achievement/machine/923054/530) - may23
+2. [**OnlyForYou**](https://www.hackthebox.com/achievement/machine/923054/540) - may23
+3. [**Agile**](https://www.hackthebox.com/achievement/machine/923054/532) - may23
+4. [**Soccer**](https://www.hackthebox.com/achievement/machine/923054/519) - may23
 5. [**Stocker**](https://www.hackthebox.com/achievement/machine/923054/523) - may23
-4. [**Inject**](https://www.hackthebox.com/achievement/machine/923054/533) - may23
-3. [**Precius**](https://www.hackthebox.com/achievement/machine/923054/513) - may23
-2. [**Busqueda**](https://www.hackthebox.com/achievement/machine/923054/537) - may23
-1. [**MonitorsTwo**](https://www.hackthebox.com/achievement/machine/923054/539) - may23
+6. [**Inject**](https://www.hackthebox.com/achievement/machine/923054/533) - may23
+7. [**Precius**](https://www.hackthebox.com/achievement/machine/923054/513) - may23
+8. [**Busqueda**](https://www.hackthebox.com/achievement/machine/923054/537) - may23
+9. [**MonitorsTwo**](https://www.hackthebox.com/achievement/machine/923054/539) - may23
 
 ### HTB - [Starting Point](https://app.hackthebox.com/starting-point)
 
@@ -33,7 +36,7 @@
 
 ### HTB Challeng - Level Easy
 
-
+3. [**BabyEncryption**](https://www.hackthebox.com/achievement/challenge/923054/228) - may23
 2. [**CubeMadness1**](https://www.hackthebox.com/achievement/challenge/923054/302) - may23
 1. [**RaceCar**](https://www.hackthebox.com/achievement/challenge/923054/242) - may23
 
