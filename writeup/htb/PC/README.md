@@ -121,7 +121,7 @@ When invoking it, it reports the following information:
 
 
 | token | b'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiYWRtaW4iLCJleHAiOjE2ODQ5MjI5NDZ96xtSkyx5xzDHf66woamHT2EGOpYzSYborktiz3P0Igg' |
-|-------|----------------------------------------- -------------------------------------------------- -------------------------------------------|
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 As we can see, we have already obtained the administrator credentials, these are: `admin:admin`. We see that we have an id and a token. So now we are going to try to get a little more information.
 
