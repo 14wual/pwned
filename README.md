@@ -6,7 +6,7 @@
 1. [HackTheBox - HTB](https://github.com/14wual/pwned/edit/main/README.md#hackthebox)
 2. [Vulnub](https://github.com/14wual/pwned/edit/main/README.md#vulnhub)
 
-**Total**: 9
+**Total**: 14
 
 # [HackTheBox](https://app.hackthebox.com/profile/923054)
 
@@ -14,12 +14,15 @@
 
 ### HTB Machine - Level Medium
 
+1. [**Socket**](https://www.hackthebox.com/achievement/machine/923054/535) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/htb/Socket)
+2. [**Format**](https://www.hackthebox.com/achievement/machine/923054/542) - may23
 1. [**Bagel**](https://www.hackthebox.com/achievement/machine/923054/530) - may23
 2. [**OnlyForYou**](https://www.hackthebox.com/achievement/machine/923054/540) - may23
 3. [**Agile**](https://www.hackthebox.com/achievement/machine/923054/532) - may23
 
 ### HTB Machine - Level Easy
 
+1. [**PC**](https://www.hackthebox.com/achievement/machine/923054/543) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/htb/PC)
 1. [**Soccer**](https://www.hackthebox.com/achievement/machine/923054/519) - may23
 2. [**Stocker**](https://www.hackthebox.com/achievement/machine/923054/523) - may23
 3. [**Inject**](https://www.hackthebox.com/achievement/machine/923054/533) - may23
