@@ -22,6 +22,7 @@
 
 ### HTB Machine - Level Easy
 
+1. [**Squashed**](https://www.hackthebox.com/achievement/machine/923054/514) - may23
 1. [**PC**](https://www.hackthebox.com/achievement/machine/923054/543) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/htb/PC)
 1. [**Soccer**](https://www.hackthebox.com/achievement/machine/923054/519) - may23
 2. [**Stocker**](https://www.hackthebox.com/achievement/machine/923054/523) - may23
@@ -45,6 +46,13 @@
 3. [**BabyEncryption**](https://www.hackthebox.com/achievement/challenge/923054/228) - may23
 2. [**CubeMadness1**](https://www.hackthebox.com/achievement/challenge/923054/302) - may23
 1. [**RaceCar**](https://www.hackthebox.com/achievement/challenge/923054/242) - may23
+
+# [TryHackMe](https://tryhackme.com/p/14wual)
+
+### THM Machine - Level Easy
+
+1. [**Basic Pentesting**](https://tryhackme.com/room/basicpentestingjt) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Cyborg)
+
 
 # [Vulnhub](https://www.vulnhub.com/)
 
