@@ -6,7 +6,7 @@
 1. [HackTheBox - HTB](https://github.com/14wual/pwned/edit/main/README.md#hackthebox)
 2. [Vulnub](https://github.com/14wual/pwned/edit/main/README.md#vulnhub)
 
-**Total**: 14
+**Total**: 15
 
 # [HackTheBox](https://app.hackthebox.com/profile/923054)
 
@@ -51,8 +51,8 @@
 
 ### THM Machine - Level Easy
 
+1. [**RootMe**](https://tryhackme.com/room/rrootme) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Rootme)
 1. [**Basic Pentesting**](https://tryhackme.com/room/basicpentestingjt) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Cyborg)
-
 
 # [Vulnhub](https://www.vulnhub.com/)
 
