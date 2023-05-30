@@ -51,6 +51,11 @@
 
 ### THM Machine - Level Easy
 
+
+1. [**Pickle Rick**](https://tryhackme.com/room/picklerick) - may23
+1. [**Bounty Hacker**](https://tryhackme.com/room/cowboyhacker) - may23
+1. [**Simple CTF**](https://tryhackme.com/room/easyctf) - may23
+1. [**Cyborg**](https://tryhackme.com/room/cyborgt8) - may23
 1. [**RootMe**](https://tryhackme.com/room/rrootme) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Rootme)
 1. [**Basic Pentesting**](https://tryhackme.com/room/basicpentestingjt) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Cyborg)
 
