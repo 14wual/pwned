@@ -49,15 +49,20 @@
 
 # [TryHackMe](https://tryhackme.com/p/14wual)
 
-### THM Machine - Level Easy
+### THM Badgets
 
+[OhSINT](https://tryhackme.com/14wual/badges/ohsint)
 
-1. [**Pickle Rick**](https://tryhackme.com/room/picklerick) - may23
-1. [**Bounty Hacker**](https://tryhackme.com/room/cowboyhacker) - may23
-1. [**Simple CTF**](https://tryhackme.com/room/easyctf) - may23
-1. [**Cyborg**](https://tryhackme.com/room/cyborgt8) - may23
-1. [**RootMe**](https://tryhackme.com/room/rrootme) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Rootme)
-1. [**Basic Pentesting**](https://tryhackme.com/room/basicpentestingjt) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Cyborg)
+### THM Room - Level Easy
+
+1. [**OhSINT**](https://tryhackme.com/room/ohsint) - may23
+1. [**Lazy Admin**](https://tryhackme.com/room/lazyadmin) - jun23
+3. [**Pickle Rick**](https://tryhackme.com/room/picklerick) - may23
+4. [**Bounty Hacker**](https://tryhackme.com/room/cowboyhacker) - may23
+5. [**Simple CTF**](https://tryhackme.com/room/easyctf) - may23
+6. [**Cyborg**](https://tryhackme.com/room/cyborgt8) - may23
+7. [**RootMe**](https://tryhackme.com/room/rrootme) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Rootme)
+8. [**Basic Pentesting**](https://tryhackme.com/room/basicpentestingjt) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Cyborg)
 
 # [Vulnhub](https://www.vulnhub.com/)
 
