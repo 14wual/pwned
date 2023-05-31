@@ -1,10 +1,17 @@
-# pwned
-14Wual Pentesting Laboratories Worked Pwned
+# PWNED
+14Wual Pentesting Laboratories, Machines & Challengs Worked/Pwned!
 
- Preparing eJPT
+ **Personal Certificates**:
+ 
+ 1. eJPTv2 > Preparing
+ 2. Cisco Cybersecurity Essentials (CCE)
+ 3. Cisco Networking Essentials (CNE)
+ 
+ **Index**:
 
 1. [HackTheBox - HTB](https://github.com/14wual/pwned/edit/main/README.md#hackthebox)
-2. [Vulnub](https://github.com/14wual/pwned/edit/main/README.md#vulnhub)
+1. [TryHackMe - THM](https://github.com/14wual/pwned/edit/main/README.md#tryhackme)
+3. [Vulnub](https://github.com/14wual/pwned/edit/main/README.md#vulnhub)
 
 **Total**: 15
 
@@ -55,6 +62,7 @@
 
 ### THM Room - Level Easy
 
+1. [**Gotta Catch'em All!**](https://tryhackme.com/room/pokemon) - may23
 1. [**OhSINT**](https://tryhackme.com/room/ohsint) - may23
 1. [**Lazy Admin**](https://tryhackme.com/room/lazyadmin) - jun23
 3. [**Pickle Rick**](https://tryhackme.com/room/picklerick) - may23
@@ -63,6 +71,14 @@
 6. [**Cyborg**](https://tryhackme.com/room/cyborgt8) - may23
 7. [**RootMe**](https://tryhackme.com/room/rrootme) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Rootme)
 8. [**Basic Pentesting**](https://tryhackme.com/room/basicpentestingjt) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Cyborg)
+
+### THM Room - Level Info
+
+1. [**Nessus**](https://tryhackme.com/room/rpnessusredux) - jun23
+1. [**Hydra**](https://tryhackme.com/room/hydra) - jun23
+1. [**Burp Suite**](https://tryhackme.com/room/burpsuitebasics) - jun23
+1. [**Nmap**](https://tryhackme.com/room/furthernmap) - jun23
+2. [**Metasploit**](https://tryhackme.com/room/metasploitintro) - jun23
 
 # [Vulnhub](https://www.vulnhub.com/)
 
