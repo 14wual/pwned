@@ -58,27 +58,33 @@
 
 ### THM Badgets
 
+[Hash Cracker](https://tryhackme.com/14wual/badges/hash-cracker)
 [OhSINT](https://tryhackme.com/14wual/badges/ohsint)
 
 ### THM Room - Level Easy
 
-1. [**Gotta Catch'em All!**](https://tryhackme.com/room/pokemon) - may23
-1. [**OhSINT**](https://tryhackme.com/room/ohsint) - may23
-1. [**Lazy Admin**](https://tryhackme.com/room/lazyadmin) - jun23
-3. [**Pickle Rick**](https://tryhackme.com/room/picklerick) - may23
-4. [**Bounty Hacker**](https://tryhackme.com/room/cowboyhacker) - may23
-5. [**Simple CTF**](https://tryhackme.com/room/easyctf) - may23
-6. [**Cyborg**](https://tryhackme.com/room/cyborgt8) - may23
-7. [**RootMe**](https://tryhackme.com/room/rrootme) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Rootme)
-8. [**Basic Pentesting**](https://tryhackme.com/room/basicpentestingjt) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Cyborg)
+1. [**Anonymous**](https://tryhackme.com/room/anonymous) - jun23
+1. [**c4ptur3-th3-fl4g**](https://tryhackme.com/room/c4ptur3th3fl4g) - jun23
+1. [**VulnNet: Internal**](https://tryhackme.com/room/vulnnetinternal) - jun23
+1. [**Corridor**](https://tryhackme.com/room/corridor) - jun23
+4. [**Crack the hash**](https://tryhackme.com/room/crackthehash) - jun23
+5. [**Gotta Catch'em All!**](https://tryhackme.com/room/pokemon) - may23
+6. [**OhSINT**](https://tryhackme.com/room/ohsint) - may23
+7. [**Lazy Admin**](https://tryhackme.com/room/lazyadmin) - jun23
+8. [**Pickle Rick**](https://tryhackme.com/room/picklerick) - may23
+9. [**Bounty Hacker**](https://tryhackme.com/room/cowboyhacker) - may23
+10. [**Simple CTF**](https://tryhackme.com/room/easyctf) - may23
+11. [**Cyborg**](https://tryhackme.com/room/cyborgt8) - may23
+12. [**RootMe**](https://tryhackme.com/room/rrootme) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Rootme)
+13. [**Basic Pentesting**](https://tryhackme.com/room/basicpentestingjt) - may23 >> [WriteUp: Link](https://github.com/14wual/pwned/tree/main/writeup/thm/Cyborg)
 
 ### THM Room - Level Info
 
-1. [**Nessus**](https://tryhackme.com/room/rpnessusredux) - jun23
-1. [**Hydra**](https://tryhackme.com/room/hydra) - jun23
-1. [**Burp Suite**](https://tryhackme.com/room/burpsuitebasics) - jun23
-1. [**Nmap**](https://tryhackme.com/room/furthernmap) - jun23
-2. [**Metasploit**](https://tryhackme.com/room/metasploitintro) - jun23
+1. [**Nessus**](https://tryhackme.com/room/rpnessusredux) - may23
+1. [**Hydra**](https://tryhackme.com/room/hydra) - may23
+1. [**Burp Suite**](https://tryhackme.com/room/burpsuitebasics) - may23
+1. [**Nmap**](https://tryhackme.com/room/furthernmap) - may23
+2. [**Metasploit**](https://tryhackme.com/room/metasploitintro) - may23
 
 # [Vulnhub](https://www.vulnhub.com/)
 
