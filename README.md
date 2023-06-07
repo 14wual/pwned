@@ -63,6 +63,7 @@
 
 ### THM Room - Level Easy
 
+1. [**StartUp**](https://tryhackme.com/room/startup) - jun23
 1. [**Anonymous**](https://tryhackme.com/room/anonymous) - jun23
 1. [**c4ptur3-th3-fl4g**](https://tryhackme.com/room/c4ptur3th3fl4g) - jun23
 1. [**VulnNet: Internal**](https://tryhackme.com/room/vulnnetinternal) - jun23
